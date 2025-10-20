@@ -30,7 +30,7 @@
 Here's a list of technologies and tools I've worked with:
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,php,python,bash,dotnet,react,redux,bootstrap,tailwind,jquery,sass,vscode,visualstudio,git,linux,powershell,mysql,sqlite,unity,unreal,blender,ps,ai,ae,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,c,cpp,cs,python,bash,dotnet,react,redux,jquery,bootstrap,tailwindcss,sass,nodejs,expressjs,mongodb,postgresql,npm,flask,qt,mysql,sqlite,powershell,linux,visualstudio,vscode,unity,unrealengine,blender,photoshop,illustrator,aftereffects,figma" />
 </p>
 
 ---
