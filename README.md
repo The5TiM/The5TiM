@@ -37,12 +37,6 @@ Here's a list of technologies and tools I've worked with:
 
 ## 📊 GitHub Stats
 
-Here are some stats about my GitHub activity:
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=The5TiM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The5TiM&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
 <p align="center">
   <img height="180em" src="https://streak-stats.demolab.com/?user=The5TiM&theme=tokyonight&hide_border=true"/>
 </p>
